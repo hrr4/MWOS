@@ -1,4 +1,4 @@
-# MWOS
+# Mostly Wizardry Operating System
 A small ARM-M RTOS.
 
 ## Supports
